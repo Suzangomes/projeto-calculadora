@@ -4,22 +4,10 @@
 Este projeto é uma calculadora simples desenvolvida em Python que realiza a soma de dois números digitados pelo usuário.
 
 #Como executar
+Para executar o projeto, é necessário ter o Python instalado.
+Em seguida, abra um terminal (como Git Bash, PowerShell ou Linux), navegue até a pasta do projeto e execute o comando:
 
-### 1. Dar permissão ao script
-```bash
-chmod +x executar.sh
 ./executar.sh
 
-Como funciona o código
-
-O arquivo calculadora.py:
-
-Solicita dois números ao usuário
-Converte os valores para tipo numérico (float)
-Realiza a soma
-Exibe o resultado na tela
-
-
-Estrutura do projeto
-calculadora.py → código principal em Python
-executar.sh → script para execução do programa
+O comando ./ indica que o script será executado a partir da pasta atual.
+Após isso, o programa solicitará dois números e exibirá a soma
